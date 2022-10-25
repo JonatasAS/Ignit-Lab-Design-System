@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ignite lab tem como objetivo o estudo de uma aplicação construindo o designe system pelo figma até o React, mas também utilizando varias ferramentas como por exemplo o
+O Ignite lab tem como objetivo o estudo de uma aplicação construindo o design system pelo figma até o React, mas também utilizando varias ferramentas como por exemplo o
 Storybook para verificar componentes funcionando de forma isolada.
 
 ## 🔖 Layout
